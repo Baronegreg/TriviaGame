@@ -59,17 +59,29 @@
 		}
 	}
 
-		var results = {
+	// 	var results = {
 
-		question1: a,
-		question2: c,
-		question3: b,
-		question4: c,
-		question5: d,
-		question6: b,
-		question7: c,
-		question8: a
+	// 	question1: a,
+	// 	question2: c,
+	// 	question3: b,
+	// 	question4: c,
+	// 	question5: d,
+	// 	question6: b,
+	// 	question7: c,
+	// 	question8: a
 		
-		}
+	// 	},
+
+	// 	answers(){
+
+	// 	if (question1 === a) {
+
+	// 		answers ++;
+	// 	}
+
+	// 	
+
+		
+	// 	$(".results").html(answers);	
 		
 		$(".results").html(results);	
