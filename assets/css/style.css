@@ -1,0 +1,37 @@
+/*Main content of Triva section*/
+body{
+	display: flex;
+	justify-content: center;
+}
+
+
+.main{
+	display: flex;
+	flex-direction: column;
+	background: darkkhaki;
+	width: 50%;
+
+}
+
+h1{
+	display: flex;
+	justify-content: center;
+	color: blue;
+}
+
+.question{
+	display: flex;
+	justify-content: center;
+	font-size: 22px;
+	color: indianred;
+
+}
+
+.results{
+	display: flex;
+	flex-direction: column;
+	background: darkkhaki;
+	width: 50%;
+	height: 800px;
+	
+}
