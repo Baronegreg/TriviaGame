@@ -40,7 +40,7 @@
 
 	var countDown = {
 		
-		timer: 5,
+		timer: 60,
 		start: function(){
 			intervalId = setInterval(countDown.count, 1000)
 		},
